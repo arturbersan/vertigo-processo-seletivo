@@ -378,14 +378,4 @@ O sistema ignora automaticamente:
 - Adicionar testes para novas funcionalidades
 - Manter logs informativos
 
-## Licença
-
-[Especificar licença do projeto]
-
-## Contato
-
-[Informações de contato do desenvolvedor/equipe]
-
----
-
 **Nota**: Este projeto foi desenvolvido para fins acadêmicos e de pesquisa, respeitando os termos de uso da API Crossref e dos dados abertos da CAPES.
