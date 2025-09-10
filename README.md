@@ -124,8 +124,8 @@ flowchart TD
 
 ### 1. Clonar o repositório
 ```bash
-git clone <repository_url>
-cd capes-doi-pipeline
+git clone https://github.com/arturbersan/vertigo-processo-seletivo/
+cd vertigo-processo-seletivo
 ```
 
 ### 2. Criar ambiente virtual
@@ -143,15 +143,41 @@ pip install -r requirements.txt
 
 ### 4. Criar estrutura de pastas
 ```bash
-mkdir -p data/raw data/processed data/enriched logs output
+mkdir -p data/raw
 ```
 
 ## Configuração dos Dados
 
 ### 1. Download dos dados CAPES
-Os arquivos de dados não estão incluídos no repositório devido ao tamanho. Baixe-os manualmente:
+Os arquivos de dados não estão incluídos no repositório devido ao tamanho (~500MB total). Use o script automatizado:
 
-**Opção A: Downloa
+```bash
+python download_data.py
+```
+
+Este script irá:
+- Criar a estrutura de pastas necessária
+- Baixar os 2 arquivos CSV da CAPES automaticamente
+- Colocá-los na pasta `data/raw/` com os nomes corretos
+- Mostrar progresso do download
+
+**Arquivos baixados:**
+- `data/raw/capes_parte1.csv` (br-capes-colsucup-producao-2017a2020 - Parte 1)
+- `data/raw/capes_parte2.csv` (br-capes-colsucup-producao-2017a2020 - Parte 2)
+
+**Download manual (alternativo):**
+Se preferir baixar manualmente:
+
+```bash
+# Criar pastas
+mkdir -p data/raw
+
+# Baixar Parte 1
+wget "https://dadosabertos.capes.gov.br/dataset/589e8182-71e3-4669-b47a-3f8ecf1a16ab/resource/25020945-8050-4922-92f0-606c0eb45e7b/download/br-capes-colsucup-producao-2017a2020-2023-11-30-bibliografica-artpe_parte1.csv" -O data/raw/capes_parte1.csv
+
+# Baixar Parte 2  
+wget "https://dadosabertos.capes.gov.br/dataset/589e8182-71e3-4669-b47a-3f8ecf1a16ab/resource/209740e3-2e6e-4c5f-a705-7566bd7276c0/download/br-capes-colsucup-producao-2017a2020-2023-11-30-bibliografica-artpe_parte2.csv" -O data/raw/capes_parte2.csv
+```
 
 ### 2. Verificar download bem-sucedido
 ```
@@ -173,8 +199,6 @@ python pipeline_with_resume.py
 # Processar quantidade específica
 python pipeline_with_resume.py 50000
 
-# Processar dataset completo (todos os registros)
-python pipeline_with_resume.py 1000000
 ```
 
 ### Geração de Gráficos
@@ -192,7 +216,7 @@ python create_sample_dataset.py
 ## Estrutura do Projeto
 
 ```
-capes-doi-pipeline/
+vertigo-processo-seletivo/
 ├── pipeline_with_resume.py    # Script principal do pipeline
 ├── generate_capes_graphics.py # Gerador de gráficos
 ├── create_sample_dataset.py   # Criador de amostras
