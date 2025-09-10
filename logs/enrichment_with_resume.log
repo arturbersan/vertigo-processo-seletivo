@@ -1,0 +1,24 @@
+2025-09-09 11:51:04,389 - INFO - Processando 10,000 novos registros
+2025-09-09 11:51:04,408 - INFO - Lote 0: 161/200 títulos válidos
+2025-09-09 11:51:21,383 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-29' coro=<tqdm_asyncio.gather.<locals>.wrap_awaitable() done, defined at /home/artur/Documentos/vertigo/venv/lib/python3.10/site-packages/tqdm/asyncio.py:75> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "/home/artur/Documentos/vertigo/pipeline_with_resume.py", line 479, in <module>
+    asyncio.run(run_pipeline_with_resume(target_size))
+  File "/home/artur/.pyenv/versions/3.10.0/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/home/artur/.pyenv/versions/3.10.0/lib/python3.10/asyncio/base_events.py", line 628, in run_until_complete
+    self.run_forever()
+  File "/home/artur/.pyenv/versions/3.10.0/lib/python3.10/asyncio/base_events.py", line 595, in run_forever
+    self._run_once()
+  File "/home/artur/.pyenv/versions/3.10.0/lib/python3.10/asyncio/base_events.py", line 1881, in _run_once
+    handle._run()
+  File "/home/artur/.pyenv/versions/3.10.0/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/artur/Documentos/vertigo/venv/lib/python3.10/site-packages/tqdm/asyncio.py", line 76, in wrap_awaitable
+    return i, await f
+  File "/home/artur/Documentos/vertigo/pipeline_with_resume.py", line 292, in process_title
+    self.cache_result(title, None, None, 0)
+  File "/home/artur/Documentos/vertigo/pipeline_with_resume.py", line 194, in cache_result
+    conn.commit()
+KeyboardInterrupt

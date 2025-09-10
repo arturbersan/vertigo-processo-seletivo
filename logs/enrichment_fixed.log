@@ -1,0 +1,178 @@
+2025-09-09 10:24:37,978 - INFO - Processando amostra: 10,000 registros
+2025-09-09 10:24:37,997 - INFO - Lote 0: 160/200 títulos válidos
+2025-09-09 10:25:24,378 - INFO - Lote 0: 91/200 DOIs encontrados
+2025-09-09 10:25:24,379 - INFO - Progresso: 2.0% | Total DOIs: 91
+2025-09-09 10:25:24,407 - INFO - Lote 1: 169/200 títulos válidos
+2025-09-09 10:26:14,930 - INFO - Lote 1: 92/200 DOIs encontrados
+2025-09-09 10:26:14,932 - INFO - Progresso: 4.0% | Total DOIs: 183
+2025-09-09 10:26:14,963 - INFO - Lote 2: 154/200 títulos válidos
+2025-09-09 10:27:02,527 - INFO - Lote 2: 106/200 DOIs encontrados
+2025-09-09 10:27:02,529 - INFO - Progresso: 6.0% | Total DOIs: 289
+2025-09-09 10:27:02,556 - INFO - Lote 3: 156/200 títulos válidos
+2025-09-09 10:27:53,927 - INFO - Lote 3: 76/200 DOIs encontrados
+2025-09-09 10:27:53,928 - INFO - Progresso: 8.0% | Total DOIs: 365
+2025-09-09 10:27:53,957 - INFO - Lote 4: 146/200 títulos válidos
+2025-09-09 10:28:41,646 - INFO - Lote 4: 66/200 DOIs encontrados
+2025-09-09 10:28:41,648 - INFO - Progresso: 10.0% | Total DOIs: 431
+2025-09-09 10:28:41,675 - INFO - Lote 5: 158/200 títulos válidos
+2025-09-09 10:29:37,602 - INFO - Lote 5: 97/200 DOIs encontrados
+2025-09-09 10:29:37,604 - INFO - Progresso: 12.0% | Total DOIs: 528
+2025-09-09 10:29:37,631 - INFO - Lote 6: 157/200 títulos válidos
+2025-09-09 10:30:29,805 - INFO - Lote 6: 69/200 DOIs encontrados
+2025-09-09 10:30:29,807 - INFO - Progresso: 14.0% | Total DOIs: 597
+2025-09-09 10:30:29,834 - INFO - Lote 7: 146/200 títulos válidos
+2025-09-09 10:31:24,494 - INFO - Lote 7: 85/200 DOIs encontrados
+2025-09-09 10:31:24,497 - INFO - Progresso: 16.0% | Total DOIs: 682
+2025-09-09 10:31:24,523 - INFO - Lote 8: 168/200 títulos válidos
+2025-09-09 10:32:29,308 - INFO - Lote 8: 85/200 DOIs encontrados
+2025-09-09 10:32:29,311 - INFO - Progresso: 18.0% | Total DOIs: 767
+2025-09-09 10:32:29,338 - INFO - Lote 9: 157/200 títulos válidos
+2025-09-09 10:33:29,823 - INFO - Lote 9: 62/200 DOIs encontrados
+2025-09-09 10:33:29,826 - INFO - Progresso: 20.0% | Total DOIs: 829
+2025-09-09 10:33:29,853 - INFO - Lote 10: 165/200 títulos válidos
+2025-09-09 10:34:35,657 - INFO - Lote 10: 94/200 DOIs encontrados
+2025-09-09 10:34:35,661 - INFO - Progresso: 22.0% | Total DOIs: 923
+2025-09-09 10:34:35,690 - INFO - Lote 11: 164/200 títulos válidos
+2025-09-09 10:35:38,674 - INFO - Lote 11: 84/200 DOIs encontrados
+2025-09-09 10:35:38,678 - INFO - Progresso: 24.0% | Total DOIs: 1007
+2025-09-09 10:35:38,705 - INFO - Lote 12: 166/200 títulos válidos
+2025-09-09 10:36:36,833 - INFO - Lote 12: 86/200 DOIs encontrados
+2025-09-09 10:36:36,837 - INFO - Progresso: 26.0% | Total DOIs: 1093
+2025-09-09 10:36:36,863 - INFO - Lote 13: 159/200 títulos válidos
+2025-09-09 10:37:41,750 - INFO - Lote 13: 73/200 DOIs encontrados
+2025-09-09 10:37:41,755 - INFO - Progresso: 28.0% | Total DOIs: 1166
+2025-09-09 10:37:41,781 - INFO - Lote 14: 162/200 títulos válidos
+2025-09-09 10:38:40,860 - INFO - Lote 14: 105/200 DOIs encontrados
+2025-09-09 10:38:40,865 - INFO - Progresso: 30.0% | Total DOIs: 1271
+2025-09-09 10:38:40,891 - INFO - Lote 15: 161/200 títulos válidos
+2025-09-09 10:39:30,417 - INFO - Lote 15: 69/200 DOIs encontrados
+2025-09-09 10:39:30,422 - INFO - Progresso: 32.0% | Total DOIs: 1340
+2025-09-09 10:39:30,448 - INFO - Lote 16: 164/200 títulos válidos
+2025-09-09 10:40:36,712 - INFO - Lote 16: 75/200 DOIs encontrados
+2025-09-09 10:40:36,716 - INFO - Progresso: 34.0% | Total DOIs: 1415
+2025-09-09 10:40:36,743 - INFO - Lote 17: 163/200 títulos válidos
+2025-09-09 10:41:34,270 - INFO - Lote 17: 77/200 DOIs encontrados
+2025-09-09 10:41:34,276 - INFO - Progresso: 36.0% | Total DOIs: 1492
+2025-09-09 10:41:34,303 - INFO - Lote 18: 165/200 títulos válidos
+2025-09-09 10:42:33,450 - INFO - Lote 18: 89/200 DOIs encontrados
+2025-09-09 10:42:33,455 - INFO - Progresso: 38.0% | Total DOIs: 1581
+2025-09-09 10:42:33,482 - INFO - Lote 19: 160/200 títulos válidos
+2025-09-09 10:43:36,067 - INFO - Lote 19: 75/200 DOIs encontrados
+2025-09-09 10:43:36,073 - INFO - Progresso: 40.0% | Total DOIs: 1656
+2025-09-09 10:43:36,101 - INFO - Lote 20: 168/200 títulos válidos
+2025-09-09 10:44:37,053 - INFO - Lote 20: 75/200 DOIs encontrados
+2025-09-09 10:44:37,060 - INFO - Progresso: 42.0% | Total DOIs: 1731
+2025-09-09 10:44:37,090 - INFO - Lote 21: 160/200 títulos válidos
+2025-09-09 10:45:33,449 - INFO - Lote 21: 77/200 DOIs encontrados
+2025-09-09 10:45:33,457 - INFO - Progresso: 44.0% | Total DOIs: 1808
+2025-09-09 10:45:33,485 - INFO - Lote 22: 159/200 títulos válidos
+2025-09-09 10:46:26,671 - INFO - Lote 22: 72/200 DOIs encontrados
+2025-09-09 10:46:26,677 - INFO - Progresso: 46.0% | Total DOIs: 1880
+2025-09-09 10:46:26,704 - INFO - Lote 23: 160/200 títulos válidos
+2025-09-09 10:47:22,621 - INFO - Lote 23: 64/200 DOIs encontrados
+2025-09-09 10:47:22,628 - INFO - Progresso: 48.0% | Total DOIs: 1944
+2025-09-09 10:47:22,654 - INFO - Lote 24: 165/200 títulos válidos
+2025-09-09 10:48:09,387 - INFO - Lote 24: 65/200 DOIs encontrados
+2025-09-09 10:48:09,394 - INFO - Progresso: 50.0% | Total DOIs: 2009
+2025-09-09 10:48:09,420 - INFO - Lote 25: 159/200 títulos válidos
+2025-09-09 10:49:01,980 - INFO - Lote 25: 59/200 DOIs encontrados
+2025-09-09 10:49:01,987 - INFO - Progresso: 52.0% | Total DOIs: 2068
+2025-09-09 10:49:02,014 - INFO - Lote 26: 156/200 títulos válidos
+2025-09-09 10:50:02,470 - INFO - Lote 26: 55/200 DOIs encontrados
+2025-09-09 10:50:02,478 - INFO - Progresso: 54.0% | Total DOIs: 2123
+2025-09-09 10:50:02,510 - INFO - Lote 27: 153/200 títulos válidos
+2025-09-09 10:51:05,837 - INFO - Lote 27: 42/200 DOIs encontrados
+2025-09-09 10:51:05,849 - INFO - Progresso: 56.0% | Total DOIs: 2165
+2025-09-09 10:51:05,877 - INFO - Lote 28: 165/200 títulos válidos
+2025-09-09 10:52:12,179 - INFO - Lote 28: 38/200 DOIs encontrados
+2025-09-09 10:52:12,189 - INFO - Progresso: 58.0% | Total DOIs: 2203
+2025-09-09 10:52:12,221 - INFO - Lote 29: 152/200 títulos válidos
+2025-09-09 10:53:26,777 - INFO - Lote 29: 3/200 DOIs encontrados
+2025-09-09 10:53:26,793 - INFO - Progresso: 60.0% | Total DOIs: 2206
+2025-09-09 10:53:26,835 - INFO - Lote 30: 158/200 títulos válidos
+2025-09-09 10:54:36,736 - INFO - Lote 30: 22/200 DOIs encontrados
+2025-09-09 10:54:36,749 - INFO - Progresso: 62.0% | Total DOIs: 2228
+2025-09-09 10:54:36,781 - INFO - Lote 31: 157/200 títulos válidos
+2025-09-09 10:55:49,713 - INFO - Lote 31: 23/200 DOIs encontrados
+2025-09-09 10:55:49,726 - INFO - Progresso: 64.0% | Total DOIs: 2251
+2025-09-09 10:55:49,756 - INFO - Lote 32: 154/200 títulos válidos
+2025-09-09 10:56:51,398 - INFO - Lote 32: 64/200 DOIs encontrados
+2025-09-09 10:56:51,410 - INFO - Progresso: 66.0% | Total DOIs: 2315
+2025-09-09 10:56:51,449 - INFO - Lote 33: 161/200 títulos válidos
+2025-09-09 10:57:47,698 - INFO - Lote 33: 46/200 DOIs encontrados
+2025-09-09 10:57:47,709 - INFO - Progresso: 68.0% | Total DOIs: 2361
+2025-09-09 10:57:47,737 - INFO - Lote 34: 162/200 títulos válidos
+2025-09-09 10:58:43,791 - INFO - Lote 34: 42/200 DOIs encontrados
+2025-09-09 10:58:43,802 - INFO - Progresso: 70.0% | Total DOIs: 2403
+2025-09-09 10:58:43,830 - INFO - Lote 35: 165/200 títulos válidos
+2025-09-09 10:59:52,105 - INFO - Lote 35: 34/200 DOIs encontrados
+2025-09-09 10:59:52,119 - INFO - Progresso: 72.0% | Total DOIs: 2437
+2025-09-09 10:59:52,146 - INFO - Lote 36: 163/200 títulos válidos
+2025-09-09 11:01:10,444 - INFO - Lote 36: 20/200 DOIs encontrados
+2025-09-09 11:01:10,461 - INFO - Progresso: 74.0% | Total DOIs: 2457
+2025-09-09 11:01:10,491 - INFO - Lote 37: 165/200 títulos válidos
+2025-09-09 11:02:37,668 - INFO - Lote 37: 26/200 DOIs encontrados
+2025-09-09 11:02:37,684 - INFO - Progresso: 76.0% | Total DOIs: 2483
+2025-09-09 11:02:37,710 - INFO - Lote 38: 168/200 títulos válidos
+2025-09-09 11:03:49,027 - INFO - Lote 38: 36/200 DOIs encontrados
+2025-09-09 11:03:49,041 - INFO - Progresso: 78.0% | Total DOIs: 2519
+2025-09-09 11:03:49,068 - INFO - Lote 39: 167/200 títulos válidos
+2025-09-09 11:05:10,098 - INFO - Lote 39: 24/200 DOIs encontrados
+2025-09-09 11:05:10,116 - INFO - Progresso: 80.0% | Total DOIs: 2543
+2025-09-09 11:05:10,154 - INFO - Lote 40: 166/200 títulos válidos
+2025-09-09 11:06:25,902 - INFO - Lote 40: 18/200 DOIs encontrados
+2025-09-09 11:06:25,918 - INFO - Progresso: 82.0% | Total DOIs: 2561
+2025-09-09 11:06:25,948 - INFO - Lote 41: 168/200 títulos válidos
+2025-09-09 11:07:42,707 - INFO - Lote 41: 18/200 DOIs encontrados
+2025-09-09 11:07:42,720 - INFO - Progresso: 84.0% | Total DOIs: 2579
+2025-09-09 11:07:42,762 - INFO - Lote 42: 164/200 títulos válidos
+2025-09-09 11:10:01,876 - INFO - Lote 42: 21/200 DOIs encontrados
+2025-09-09 11:10:01,892 - INFO - Progresso: 86.0% | Total DOIs: 2600
+2025-09-09 11:10:01,920 - INFO - Lote 43: 155/200 títulos válidos
+2025-09-09 11:12:16,842 - INFO - Lote 43: 31/200 DOIs encontrados
+2025-09-09 11:12:16,859 - INFO - Progresso: 88.0% | Total DOIs: 2631
+2025-09-09 11:12:16,886 - INFO - Lote 44: 164/200 títulos válidos
+2025-09-09 11:15:03,099 - INFO - Lote 44: 27/200 DOIs encontrados
+2025-09-09 11:15:03,118 - INFO - Progresso: 90.0% | Total DOIs: 2658
+2025-09-09 11:15:03,148 - INFO - Lote 45: 164/200 títulos válidos
+2025-09-09 11:17:24,245 - INFO - Lote 45: 40/200 DOIs encontrados
+2025-09-09 11:17:24,261 - INFO - Progresso: 92.0% | Total DOIs: 2698
+2025-09-09 11:17:24,289 - INFO - Lote 46: 174/200 títulos válidos
+2025-09-09 11:18:08,107 - INFO - Lote 46: 65/200 DOIs encontrados
+2025-09-09 11:18:08,118 - INFO - Progresso: 94.0% | Total DOIs: 2763
+2025-09-09 11:18:08,145 - INFO - Lote 47: 163/200 títulos válidos
+2025-09-09 11:18:54,894 - INFO - Lote 47: 57/200 DOIs encontrados
+2025-09-09 11:18:54,908 - INFO - Progresso: 96.0% | Total DOIs: 2820
+2025-09-09 11:18:54,937 - INFO - Lote 48: 168/200 títulos válidos
+2025-09-09 11:19:40,789 - INFO - Lote 48: 57/200 DOIs encontrados
+2025-09-09 11:19:40,801 - INFO - Progresso: 98.0% | Total DOIs: 2877
+2025-09-09 11:19:40,827 - INFO - Lote 49: 168/200 títulos válidos
+2025-09-09 11:20:25,014 - INFO - Lote 49: 67/200 DOIs encontrados
+2025-09-09 11:20:25,026 - INFO - Progresso: 100.0% | Total DOIs: 2944
+2025-09-09 11:44:12,332 - INFO - Processando amostra: 10,000 registros
+2025-09-09 11:44:12,351 - INFO - Lote 0: 162/200 títulos válidos
+2025-09-09 11:45:05,088 - INFO - Lote 0: 49/200 DOIs encontrados
+2025-09-09 11:45:05,088 - INFO - Progresso: 2.0% | Total DOIs: 49
+2025-09-09 11:45:05,106 - INFO - Lote 1: 171/200 títulos válidos
+2025-09-09 11:45:53,993 - ERROR - Task exception was never retrieved
+future: <Task finished name='Task-630' coro=<tqdm_asyncio.gather.<locals>.wrap_awaitable() done, defined at /home/artur/Documentos/vertigo/venv/lib/python3.10/site-packages/tqdm/asyncio.py:75> exception=KeyboardInterrupt()>
+Traceback (most recent call last):
+  File "/home/artur/Documentos/vertigo/fixed_optimized_pipeline.py", line 391, in <module>
+    asyncio.run(run_fixed_optimized_sample())
+  File "/home/artur/.pyenv/versions/3.10.0/lib/python3.10/asyncio/runners.py", line 44, in run
+    return loop.run_until_complete(main)
+  File "/home/artur/.pyenv/versions/3.10.0/lib/python3.10/asyncio/base_events.py", line 628, in run_until_complete
+    self.run_forever()
+  File "/home/artur/.pyenv/versions/3.10.0/lib/python3.10/asyncio/base_events.py", line 595, in run_forever
+    self._run_once()
+  File "/home/artur/.pyenv/versions/3.10.0/lib/python3.10/asyncio/base_events.py", line 1881, in _run_once
+    handle._run()
+  File "/home/artur/.pyenv/versions/3.10.0/lib/python3.10/asyncio/events.py", line 80, in _run
+    self._context.run(self._callback, *self._args)
+  File "/home/artur/Documentos/vertigo/venv/lib/python3.10/site-packages/tqdm/asyncio.py", line 76, in wrap_awaitable
+    return i, await f
+  File "/home/artur/Documentos/vertigo/fixed_optimized_pipeline.py", line 236, in process_title
+    self.cache_result(
+  File "/home/artur/Documentos/vertigo/fixed_optimized_pipeline.py", line 145, in cache_result
+    conn.commit()
+KeyboardInterrupt

@@ -1,0 +1,166 @@
+2025-09-09 10:15:25,273 - INFO - Registros válidos para processamento: 50
+2025-09-09 10:15:25,274 - INFO - Processando lote 0 com 10 títulos
+2025-09-09 10:15:28,396 - INFO - Lote 0: 9/10 DOIs encontrados
+2025-09-09 10:15:28,401 - INFO - Progresso: 20.0% | Lote 1/5 | DOIs encontrados neste lote: 9/10 | Total DOIs: 0    1
+1    1
+2    1
+3    1
+4    1
+5    0
+6    1
+7    1
+8    1
+9    1
+Name: DOI, dtype: int64
+2025-09-09 10:15:28,402 - INFO - Processando lote 1 com 10 títulos
+2025-09-09 10:15:31,303 - INFO - Lote 1: 6/10 DOIs encontrados
+2025-09-09 10:15:31,311 - INFO - Progresso: 40.0% | Lote 2/5 | DOIs encontrados neste lote: 6/10 | Total DOIs: 0     NaN
+1     NaN
+2     NaN
+3     NaN
+4     NaN
+5     NaN
+6     NaN
+7     NaN
+8     NaN
+9     NaN
+10    NaN
+11    NaN
+12    NaN
+13    NaN
+14    NaN
+15    NaN
+16    NaN
+17    NaN
+18    NaN
+19    NaN
+Name: DOI, dtype: object
+2025-09-09 10:15:31,312 - INFO - Processando lote 2 com 10 títulos
+2025-09-09 10:15:33,511 - INFO - Lote 2: 8/10 DOIs encontrados
+2025-09-09 10:15:33,520 - INFO - Progresso: 60.0% | Lote 3/5 | DOIs encontrados neste lote: 8/10 | Total DOIs: 0     NaN
+1     NaN
+2     NaN
+3     NaN
+4     NaN
+5     NaN
+6     NaN
+7     NaN
+8     NaN
+9     NaN
+10    NaN
+11    NaN
+12    NaN
+13    NaN
+14    NaN
+15    NaN
+16    NaN
+17    NaN
+18    NaN
+19    NaN
+20    NaN
+21    NaN
+22    NaN
+23    NaN
+24    NaN
+25    NaN
+26    NaN
+27    NaN
+28    NaN
+29    NaN
+Name: DOI, dtype: object
+2025-09-09 10:15:33,521 - INFO - Processando lote 3 com 10 títulos
+2025-09-09 10:15:36,344 - INFO - Lote 3: 10/10 DOIs encontrados
+2025-09-09 10:15:36,354 - INFO - Progresso: 80.0% | Lote 4/5 | DOIs encontrados neste lote: 10/10 | Total DOIs: 0     NaN
+1     NaN
+2     NaN
+3     NaN
+4     NaN
+5     NaN
+6     NaN
+7     NaN
+8     NaN
+9     NaN
+10    NaN
+11    NaN
+12    NaN
+13    NaN
+14    NaN
+15    NaN
+16    NaN
+17    NaN
+18    NaN
+19    NaN
+20    NaN
+21    NaN
+22    NaN
+23    NaN
+24    NaN
+25    NaN
+26    NaN
+27    NaN
+28    NaN
+29    NaN
+30    NaN
+31    NaN
+32    NaN
+33    NaN
+34    NaN
+35    NaN
+36    NaN
+37    NaN
+38    NaN
+39    NaN
+Name: DOI, dtype: object
+2025-09-09 10:15:36,355 - INFO - Processando lote 4 com 10 títulos
+2025-09-09 10:15:39,114 - INFO - Lote 4: 9/10 DOIs encontrados
+2025-09-09 10:15:39,127 - INFO - Progresso: 100.0% | Lote 5/5 | DOIs encontrados neste lote: 9/10 | Total DOIs: 0     NaN
+1     NaN
+2     NaN
+3     NaN
+4     NaN
+5     NaN
+6     NaN
+7     NaN
+8     NaN
+9     NaN
+10    NaN
+11    NaN
+12    NaN
+13    NaN
+14    NaN
+15    NaN
+16    NaN
+17    NaN
+18    NaN
+19    NaN
+20    NaN
+21    NaN
+22    NaN
+23    NaN
+24    NaN
+25    NaN
+26    NaN
+27    NaN
+28    NaN
+29    NaN
+30    NaN
+31    NaN
+32    NaN
+33    NaN
+34    NaN
+35    NaN
+36    NaN
+37    NaN
+38    NaN
+39    NaN
+40    NaN
+41    NaN
+42    NaN
+43    NaN
+44    NaN
+45    NaN
+46    NaN
+47    NaN
+48    NaN
+49    NaN
+Name: DOI, dtype: object

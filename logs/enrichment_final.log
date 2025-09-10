@@ -1,0 +1,161 @@
+2025-09-09 14:04:11,941 - INFO - Processando 10,000 novos registros
+2025-09-09 14:04:11,963 - INFO - Lote 0: 156/200 títulos válidos
+2025-09-09 14:05:00,442 - INFO - Lote 0: 57/200 DOIs encontrados
+2025-09-09 14:05:00,443 - INFO - Progresso: 2.0% | Total DOIs: 57
+2025-09-09 14:05:00,462 - INFO - Lote 1: 161/200 títulos válidos
+2025-09-09 14:05:49,825 - INFO - Lote 1: 62/200 DOIs encontrados
+2025-09-09 14:05:49,825 - INFO - Progresso: 4.0% | Total DOIs: 119
+2025-09-09 14:05:49,843 - INFO - Lote 2: 162/200 títulos válidos
+2025-09-09 14:06:44,008 - INFO - Lote 2: 60/200 DOIs encontrados
+2025-09-09 14:06:44,008 - INFO - Progresso: 6.0% | Total DOIs: 179
+2025-09-09 14:06:44,027 - INFO - Lote 3: 163/200 títulos válidos
+2025-09-09 14:07:31,168 - INFO - Lote 3: 89/200 DOIs encontrados
+2025-09-09 14:07:31,169 - INFO - Progresso: 8.0% | Total DOIs: 268
+2025-09-09 14:07:31,189 - INFO - Lote 4: 154/200 títulos válidos
+2025-09-09 14:08:19,348 - INFO - Lote 4: 67/200 DOIs encontrados
+2025-09-09 14:08:19,725 - INFO - Checkpoint salvo: data/processed/checkpoint_10000_1000.parquet
+2025-09-09 14:08:19,729 - INFO - Progresso: 10.0% | Total DOIs: 335
+2025-09-09 14:08:19,777 - INFO - Lote 5: 164/200 títulos válidos
+2025-09-09 14:09:14,517 - INFO - Lote 5: 77/200 DOIs encontrados
+2025-09-09 14:09:14,519 - INFO - Progresso: 12.0% | Total DOIs: 412
+2025-09-09 14:09:14,536 - INFO - Lote 6: 153/200 títulos válidos
+2025-09-09 14:10:02,946 - INFO - Lote 6: 49/200 DOIs encontrados
+2025-09-09 14:10:02,949 - INFO - Progresso: 14.0% | Total DOIs: 461
+2025-09-09 14:10:02,967 - INFO - Lote 7: 160/200 títulos válidos
+2025-09-09 14:10:58,202 - INFO - Lote 7: 54/200 DOIs encontrados
+2025-09-09 14:10:58,204 - INFO - Progresso: 16.0% | Total DOIs: 515
+2025-09-09 14:10:58,221 - INFO - Lote 8: 168/200 títulos válidos
+2025-09-09 14:12:02,573 - INFO - Lote 8: 37/200 DOIs encontrados
+2025-09-09 14:12:02,577 - INFO - Progresso: 18.0% | Total DOIs: 552
+2025-09-09 14:12:02,604 - INFO - Lote 9: 168/200 títulos válidos
+2025-09-09 14:13:05,910 - INFO - Lote 9: 50/200 DOIs encontrados
+2025-09-09 14:13:06,208 - INFO - Checkpoint salvo: data/processed/checkpoint_10000_2000.parquet
+2025-09-09 14:13:06,213 - INFO - Progresso: 20.0% | Total DOIs: 602
+2025-09-09 14:13:06,260 - INFO - Lote 10: 159/200 títulos válidos
+2025-09-09 14:13:58,080 - INFO - Lote 10: 62/200 DOIs encontrados
+2025-09-09 14:13:58,082 - INFO - Progresso: 22.0% | Total DOIs: 664
+2025-09-09 14:13:58,100 - INFO - Lote 11: 172/200 títulos válidos
+2025-09-09 14:14:50,096 - INFO - Lote 11: 72/200 DOIs encontrados
+2025-09-09 14:14:50,098 - INFO - Progresso: 24.0% | Total DOIs: 736
+2025-09-09 14:14:50,115 - INFO - Lote 12: 155/200 títulos válidos
+2025-09-09 14:15:35,760 - INFO - Lote 12: 86/200 DOIs encontrados
+2025-09-09 14:15:35,763 - INFO - Progresso: 26.0% | Total DOIs: 822
+2025-09-09 14:15:35,780 - INFO - Lote 13: 157/200 títulos válidos
+2025-09-09 14:16:24,286 - INFO - Lote 13: 82/200 DOIs encontrados
+2025-09-09 14:16:24,288 - INFO - Progresso: 28.0% | Total DOIs: 904
+2025-09-09 14:16:24,309 - INFO - Lote 14: 156/200 títulos válidos
+2025-09-09 14:17:13,424 - INFO - Lote 14: 82/200 DOIs encontrados
+2025-09-09 14:17:13,756 - INFO - Checkpoint salvo: data/processed/checkpoint_10000_3000.parquet
+2025-09-09 14:17:13,763 - INFO - Progresso: 30.0% | Total DOIs: 986
+2025-09-09 14:17:13,807 - INFO - Lote 15: 162/200 títulos válidos
+2025-09-09 14:18:03,328 - INFO - Lote 15: 77/200 DOIs encontrados
+2025-09-09 14:18:03,334 - INFO - Progresso: 32.0% | Total DOIs: 1063
+2025-09-09 14:18:03,358 - INFO - Lote 16: 166/200 títulos válidos
+2025-09-09 14:18:53,872 - INFO - Lote 16: 76/200 DOIs encontrados
+2025-09-09 14:18:53,875 - INFO - Progresso: 34.0% | Total DOIs: 1139
+2025-09-09 14:18:53,893 - INFO - Lote 17: 167/200 títulos válidos
+2025-09-09 14:19:46,477 - INFO - Lote 17: 58/200 DOIs encontrados
+2025-09-09 14:19:46,480 - INFO - Progresso: 36.0% | Total DOIs: 1197
+2025-09-09 14:19:46,497 - INFO - Lote 18: 156/200 títulos válidos
+2025-09-09 14:20:34,187 - INFO - Lote 18: 72/200 DOIs encontrados
+2025-09-09 14:20:34,193 - INFO - Progresso: 38.0% | Total DOIs: 1269
+2025-09-09 14:20:34,214 - INFO - Lote 19: 165/200 títulos válidos
+2025-09-09 14:21:23,166 - INFO - Lote 19: 67/200 DOIs encontrados
+2025-09-09 14:21:23,651 - INFO - Checkpoint salvo: data/processed/checkpoint_10000_4000.parquet
+2025-09-09 14:21:23,662 - INFO - Progresso: 40.0% | Total DOIs: 1336
+2025-09-09 14:21:23,705 - INFO - Lote 20: 162/200 títulos válidos
+2025-09-09 14:22:11,802 - INFO - Lote 20: 70/200 DOIs encontrados
+2025-09-09 14:22:11,805 - INFO - Progresso: 42.0% | Total DOIs: 1406
+2025-09-09 14:22:11,823 - INFO - Lote 21: 160/200 títulos válidos
+2025-09-09 14:23:34,847 - INFO - Lote 21: 30/200 DOIs encontrados
+2025-09-09 14:23:34,860 - INFO - Progresso: 44.0% | Total DOIs: 1436
+2025-09-09 14:23:34,889 - INFO - Lote 22: 163/200 títulos válidos
+2025-09-09 14:24:39,686 - INFO - Lote 22: 17/200 DOIs encontrados
+2025-09-09 14:24:39,696 - INFO - Progresso: 46.0% | Total DOIs: 1453
+2025-09-09 14:24:39,724 - INFO - Lote 23: 155/200 títulos válidos
+2025-09-09 14:25:41,681 - INFO - Lote 23: 45/200 DOIs encontrados
+2025-09-09 14:25:41,690 - INFO - Progresso: 48.0% | Total DOIs: 1498
+2025-09-09 14:25:41,713 - INFO - Lote 24: 171/200 títulos válidos
+2025-09-09 14:26:31,334 - INFO - Lote 24: 66/200 DOIs encontrados
+2025-09-09 14:26:31,682 - INFO - Checkpoint salvo: data/processed/checkpoint_10000_5000.parquet
+2025-09-09 14:26:31,699 - INFO - Progresso: 50.0% | Total DOIs: 1564
+2025-09-09 14:26:31,741 - INFO - Lote 25: 165/200 títulos válidos
+2025-09-09 14:27:25,392 - INFO - Lote 25: 82/200 DOIs encontrados
+2025-09-09 14:27:25,397 - INFO - Progresso: 52.0% | Total DOIs: 1646
+2025-09-09 14:27:25,414 - INFO - Lote 26: 170/200 títulos válidos
+2025-09-09 14:28:20,303 - INFO - Lote 26: 55/200 DOIs encontrados
+2025-09-09 14:28:20,308 - INFO - Progresso: 54.0% | Total DOIs: 1701
+2025-09-09 14:28:20,327 - INFO - Lote 27: 155/200 títulos válidos
+2025-09-09 14:29:10,369 - INFO - Lote 27: 68/200 DOIs encontrados
+2025-09-09 14:29:10,374 - INFO - Progresso: 56.0% | Total DOIs: 1769
+2025-09-09 14:29:10,391 - INFO - Lote 28: 160/200 títulos válidos
+2025-09-09 14:29:58,864 - INFO - Lote 28: 80/200 DOIs encontrados
+2025-09-09 14:29:58,868 - INFO - Progresso: 58.0% | Total DOIs: 1849
+2025-09-09 14:29:58,886 - INFO - Lote 29: 154/200 títulos válidos
+2025-09-09 14:30:53,247 - INFO - Lote 29: 45/200 DOIs encontrados
+2025-09-09 14:30:53,600 - INFO - Checkpoint salvo: data/processed/checkpoint_10000_6000.parquet
+2025-09-09 14:30:53,615 - INFO - Progresso: 60.0% | Total DOIs: 1894
+2025-09-09 14:30:53,655 - INFO - Lote 30: 172/200 títulos válidos
+2025-09-09 14:31:50,764 - INFO - Lote 30: 78/200 DOIs encontrados
+2025-09-09 14:31:50,769 - INFO - Progresso: 62.0% | Total DOIs: 1972
+2025-09-09 14:31:50,787 - INFO - Lote 31: 161/200 títulos válidos
+2025-09-09 14:32:49,960 - INFO - Lote 31: 56/200 DOIs encontrados
+2025-09-09 14:32:49,967 - INFO - Progresso: 64.0% | Total DOIs: 2028
+2025-09-09 14:32:49,986 - INFO - Lote 32: 164/200 títulos válidos
+2025-09-09 14:33:42,323 - INFO - Lote 32: 72/200 DOIs encontrados
+2025-09-09 14:33:42,329 - INFO - Progresso: 66.0% | Total DOIs: 2100
+2025-09-09 14:33:42,346 - INFO - Lote 33: 151/200 títulos válidos
+2025-09-09 14:34:30,997 - INFO - Lote 33: 70/200 DOIs encontrados
+2025-09-09 14:34:31,003 - INFO - Progresso: 68.0% | Total DOIs: 2170
+2025-09-09 14:34:31,022 - INFO - Lote 34: 168/200 títulos válidos
+2025-09-09 14:35:27,539 - INFO - Lote 34: 55/200 DOIs encontrados
+2025-09-09 14:35:27,908 - INFO - Checkpoint salvo: data/processed/checkpoint_10000_7000.parquet
+2025-09-09 14:35:27,927 - INFO - Progresso: 70.0% | Total DOIs: 2225
+2025-09-09 14:35:27,967 - INFO - Lote 35: 163/200 títulos válidos
+2025-09-09 14:36:18,239 - INFO - Lote 35: 80/200 DOIs encontrados
+2025-09-09 14:36:18,246 - INFO - Progresso: 72.0% | Total DOIs: 2305
+2025-09-09 14:36:18,264 - INFO - Lote 36: 162/200 títulos válidos
+2025-09-09 14:37:06,989 - INFO - Lote 36: 78/200 DOIs encontrados
+2025-09-09 14:37:06,995 - INFO - Progresso: 74.0% | Total DOIs: 2383
+2025-09-09 14:37:07,012 - INFO - Lote 37: 174/200 títulos válidos
+2025-09-09 14:37:59,564 - INFO - Lote 37: 69/200 DOIs encontrados
+2025-09-09 14:37:59,571 - INFO - Progresso: 76.0% | Total DOIs: 2452
+2025-09-09 14:37:59,588 - INFO - Lote 38: 158/200 títulos válidos
+2025-09-09 14:38:49,137 - INFO - Lote 38: 65/200 DOIs encontrados
+2025-09-09 14:38:49,144 - INFO - Progresso: 78.0% | Total DOIs: 2517
+2025-09-09 14:38:49,162 - INFO - Lote 39: 168/200 títulos válidos
+2025-09-09 14:39:40,812 - INFO - Lote 39: 71/200 DOIs encontrados
+2025-09-09 14:39:41,210 - INFO - Checkpoint salvo: data/processed/checkpoint_10000_8000.parquet
+2025-09-09 14:39:41,227 - INFO - Progresso: 80.0% | Total DOIs: 2588
+2025-09-09 14:39:41,265 - INFO - Lote 40: 170/200 títulos válidos
+2025-09-09 14:40:33,386 - INFO - Lote 40: 65/200 DOIs encontrados
+2025-09-09 14:40:33,392 - INFO - Progresso: 82.0% | Total DOIs: 2653
+2025-09-09 14:40:33,410 - INFO - Lote 41: 162/200 títulos válidos
+2025-09-09 14:41:23,949 - INFO - Lote 41: 63/200 DOIs encontrados
+2025-09-09 14:41:23,956 - INFO - Progresso: 84.0% | Total DOIs: 2716
+2025-09-09 14:41:23,973 - INFO - Lote 42: 163/200 títulos válidos
+2025-09-09 14:42:20,364 - INFO - Lote 42: 69/200 DOIs encontrados
+2025-09-09 14:42:20,370 - INFO - Progresso: 86.0% | Total DOIs: 2785
+2025-09-09 14:42:20,388 - INFO - Lote 43: 163/200 títulos válidos
+2025-09-09 14:43:06,759 - INFO - Lote 43: 77/200 DOIs encontrados
+2025-09-09 14:43:06,766 - INFO - Progresso: 88.0% | Total DOIs: 2862
+2025-09-09 14:43:06,783 - INFO - Lote 44: 167/200 títulos válidos
+2025-09-09 14:43:56,650 - INFO - Lote 44: 66/200 DOIs encontrados
+2025-09-09 14:43:57,004 - INFO - Checkpoint salvo: data/processed/checkpoint_10000_9000.parquet
+2025-09-09 14:43:57,023 - INFO - Progresso: 90.0% | Total DOIs: 2928
+2025-09-09 14:43:57,061 - INFO - Lote 45: 166/200 títulos válidos
+2025-09-09 14:44:47,154 - INFO - Lote 45: 67/200 DOIs encontrados
+2025-09-09 14:44:47,165 - INFO - Progresso: 92.0% | Total DOIs: 2995
+2025-09-09 14:44:47,186 - INFO - Lote 46: 168/200 títulos válidos
+2025-09-09 14:45:38,061 - INFO - Lote 46: 69/200 DOIs encontrados
+2025-09-09 14:45:38,069 - INFO - Progresso: 94.0% | Total DOIs: 3064
+2025-09-09 14:45:38,088 - INFO - Lote 47: 163/200 títulos válidos
+2025-09-09 14:46:28,109 - INFO - Lote 47: 73/200 DOIs encontrados
+2025-09-09 14:46:28,116 - INFO - Progresso: 96.0% | Total DOIs: 3137
+2025-09-09 14:46:28,134 - INFO - Lote 48: 165/200 títulos válidos
+2025-09-09 14:47:21,849 - INFO - Lote 48: 97/200 DOIs encontrados
+2025-09-09 14:47:21,857 - INFO - Progresso: 98.0% | Total DOIs: 3234
+2025-09-09 14:47:21,874 - INFO - Lote 49: 173/200 títulos válidos
+2025-09-09 14:48:09,761 - INFO - Lote 49: 67/200 DOIs encontrados
+2025-09-09 14:48:10,197 - INFO - Checkpoint salvo: data/processed/checkpoint_10000_10000.parquet
+2025-09-09 14:48:10,223 - INFO - Progresso: 100.0% | Total DOIs: 3301
