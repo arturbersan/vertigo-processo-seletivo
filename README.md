@@ -364,18 +364,5 @@ O sistema ignora automaticamente:
 - Machine Learning para otimizar estratégias
 - Pipeline em tempo real para novos dados
 
-## Contribuição
-
-### Como Contribuir
-1. Fork o repositório
-2. Crie uma branch para sua feature
-3. Faça commit das mudanças
-4. Abra um Pull Request
-
-### Padrões de Código
-- Seguir PEP 8 para Python
-- Documentar funções com docstrings
-- Adicionar testes para novas funcionalidades
-- Manter logs informativos
 
 **Nota**: Este projeto foi desenvolvido para fins acadêmicos e de pesquisa, respeitando os termos de uso da API Crossref e dos dados abertos da CAPES.
